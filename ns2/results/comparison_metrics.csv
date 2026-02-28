@@ -1,0 +1,5 @@
+Metric,Baseline,ML-Based
+Total Drops,3473.0,151.0
+Loss Rate (%),21.52,0.62
+Avg Delay (ms),1.18,0.62
+Throughput (Mbps),6.76,12.94
